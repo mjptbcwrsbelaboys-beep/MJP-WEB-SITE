@@ -1,0 +1,7 @@
+{
+  "name": "MJPTBCWR School (Boys), Bela",
+  "description": "Official website for MJPTBCWR School (Boys), Bela, Adilabad District, Telangana. Featuring academics, library details, notices, and student activities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
